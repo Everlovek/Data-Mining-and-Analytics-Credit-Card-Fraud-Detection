@@ -1,0 +1,2 @@
+# Data-Mining-and-Analytics-Credit-Card-Fraud-Detection
+Implementation of core data mining techniques applied to credit card fraud detection as part of Introduction to Data Mining. Demonstrates the complete data mining lifecycle including data quality assessment, SMOTE-based class balancing, supervised classification, unsupervised clustering, and association rule mining using Python and scikit-learn.
